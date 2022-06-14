@@ -1,5 +1,5 @@
 # Willy-Wangky
 
-Merupakan program yang digunakan untuk menjalankan sebuah taman hiburan. User dapat membuat akunnya dan dapat login ke dalam program. User dapat membeli tiket suatu wahana dengan syarat tertentu seperti umur atau tinggi, dan tiket tersebut dapat juga di refund. User dapat menggunakan tiketnya untuk memainkan suatu wahana, lalu user dapat memberikan kritik dan saran untuk wahana yang dimainkan. User dapat men top up saldo akunnya dan juga mengupgrade akunnya menjadi golden account.
+This is a program used to run an amusement park. Users can create an account and can log into the program. Users can buy a ticket for a ride with certain conditions such as age or height, and the ticket can also be refunded. Users can use their tickets to play a ride, then the user can provide criticism and suggestions for the rides being played. Users can top up their account balances and also upgrade their accounts to golden accounts.
 
-Pada program ini juga ada sisi yang hanya bisa diakses oleh admin. Admin dapat menambahkan wahana baru, melihat riwayat penggunaan suatu wahana, melihat Wahana terbaik berdasarkan jumlah tiket yang terjual, dan melihat kritik dan saran yang diberikan oleh user.
+In this program there is also a side that can only be accessed by the admin. Admin can add new rides, view the history of using a ride, see the best rides based on the number of tickets sold, and see criticism and suggestions given by the user.
